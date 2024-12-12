@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- Imagem com efeito de neumorfismo e gradiente das cores da bandeira do Brasil -->
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
-     width="10%" 
+<img src="C:\Users\sgtra\Desktop\DIO_Project\GitHub\cmdEssenciaisGitHub\img\Sem título.png" 
+     width="20%" 
      style="border-radius: 50%; 
             background: linear-gradient(135deg, #009739, #FFCC29, #005AA7); /* Gradiente da bandeira do Brasil */
             box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1), -10px -10px 20px rgba(255, 255, 255, 0.7); /* Efeito neumorfismo */
