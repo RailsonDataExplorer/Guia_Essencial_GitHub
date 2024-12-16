@@ -1,25 +1,26 @@
 <div align="center">
 
 <!-- Imagem com efeito de neumorfismo e gradiente das cores da bandeira do Brasil -->
-<img src="C:\Users\sgtra\Desktop\DIO_Project\GitHub\cmdEssenciaisGitHub\img\Sem título.png" 
-     width="20%" />
+<img src="./img/logoGitHub2.png" 
+     width="100%" />
 
 [![Licença MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/seu-usuario/seu-repositorio?style=social)](https://github.com/seu-usuario/seu-repositorio/stargazers)
+# 🚀 Comandos Essenciais do GitHub
 
 </div>
 
 ## 📋 Índice
 
-- [Introdução](#-introdução)
-- [Configuração Inicial](#-configuração-inicial)
-- [Comandos Básicos](#-comandos-básicos)
-- [Branches](#-branches)
-- [Colaboração](#-colaboração)
-- [Sincronização](#-sincronização)
-- [Desfazendo Alterações](#-desfazendo-alterações)
-- [Dicas Úteis](#-dicas-úteis)
-
+- [Introdução](#introdução)
+- [Configuração Inicial](#configuração-inicial)
+- [Comandos Básicos](#comandos-básicos)
+- [Branches](#branches)
+- [Colaboração](#colaboração)
+- [Sincronização](#sincronização)
+- [Desfazendo Alterações](#desfazendo-alterações)
+- [Dicas Úteis](#dicas-úteis)
+  
 ## 🎯 Introdução
 
 Este guia fornece uma visão geral dos comandos mais importantes do Git e GitHub, essenciais para o desenvolvimento de software moderno e colaboração em equipe.
